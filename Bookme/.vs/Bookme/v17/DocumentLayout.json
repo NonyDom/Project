@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\ihelper\\iuserhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\ihelper\\iuserhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\helper\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\helper\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\database\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\database\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\database\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\database\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\database\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\database\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\helper\\adminhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\helper\\adminhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\controllers\\superadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\controllers\\superadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\database\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\database\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\views\\superadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\views\\superadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\views\\superadmin\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\views\\superadmin\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\ihelper\\iadminhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\ihelper\\iadminhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\bookme.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\bookme.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|c:\\users\\domin\\source\\repos\\project\\bookme\\bookme\\migrations\\20240612112649_addroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848362CD-6562-406C-A486-5D777452761E}|Bookme\\Bookme.csproj|solutionrelative:bookme\\migrations\\20240612112649_addroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Program.cs",
+              "RelativeDocumentMoniker": "Bookme\\Program.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Program.cs",
+              "RelativeToolTip": "Bookme\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:03:05.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Database\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Bookme\\Database\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Database\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Bookme\\Database\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:57:48.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserHelper.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\IHelper\\IUserHelper.cs",
+              "RelativeDocumentMoniker": "Bookme\\IHelper\\IUserHelper.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\IHelper\\IUserHelper.cs",
+              "RelativeToolTip": "Bookme\\IHelper\\IUserHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:05:45.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserHelper.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Helper\\UserHelper.cs",
+              "RelativeDocumentMoniker": "Bookme\\Helper\\UserHelper.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Helper\\UserHelper.cs",
+              "RelativeToolTip": "Bookme\\Helper\\UserHelper.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAIBJwDEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:04:40.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Bookme\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Bookme\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:20:33.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Database\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Bookme\\Database\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Database\\Models\\Category.cs",
+              "RelativeToolTip": "Bookme\\Database\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:50:55.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Views\\Account\\Registration.cshtml",
+              "RelativeDocumentMoniker": "Bookme\\Views\\Account\\Registration.cshtml",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Views\\Account\\Registration.cshtml",
+              "RelativeToolTip": "Bookme\\Views\\Account\\Registration.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAIBJwDAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T11:19:31.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SuperAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Controllers\\SuperAdminController.cs",
+              "RelativeDocumentMoniker": "Bookme\\Controllers\\SuperAdminController.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Controllers\\SuperAdminController.cs",
+              "RelativeToolTip": "Bookme\\Controllers\\SuperAdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:19:29.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Database\\Enum.cs",
+              "RelativeDocumentMoniker": "Bookme\\Database\\Enum.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Database\\Enum.cs",
+              "RelativeToolTip": "Bookme\\Database\\Enum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:58:16.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminHelper.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Helper\\AdminHelper.cs",
+              "RelativeDocumentMoniker": "Bookme\\Helper\\AdminHelper.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Helper\\AdminHelper.cs",
+              "RelativeToolTip": "Bookme\\Helper\\AdminHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:36:06.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Database\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Bookme\\Database\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Database\\Models\\BaseModel.cs",
+              "RelativeToolTip": "Bookme\\Database\\Models\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:51:07.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bookme\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Bookme\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T11:16:29.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Bookme\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Bookme\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAIBJwEQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T09:30:31.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAdminHelper.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\IHelper\\IAdminHelper.cs",
+              "RelativeDocumentMoniker": "Bookme\\IHelper\\IAdminHelper.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\IHelper\\IAdminHelper.cs",
+              "RelativeToolTip": "Bookme\\IHelper\\IAdminHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:39:15.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Bookme\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Bookme\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwE8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-13T13:44:22.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Views\\SuperAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bookme\\Views\\SuperAdmin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Views\\SuperAdmin\\Index.cshtml",
+              "RelativeToolTip": "Bookme\\Views\\SuperAdmin\\Index.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T14:05:00.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cshtml",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Views\\SuperAdmin\\Category.cshtml",
+              "RelativeDocumentMoniker": "Bookme\\Views\\SuperAdmin\\Category.cshtml",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Views\\SuperAdmin\\Category.cshtml",
+              "RelativeToolTip": "Bookme\\Views\\SuperAdmin\\Category.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAIBJwJEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T18:48:34.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Bookme\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Bookme\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T13:28:36.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Bookme.csproj",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Bookme.csproj",
+              "RelativeDocumentMoniker": "Bookme\\Bookme.csproj",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Bookme.csproj",
+              "RelativeToolTip": "Bookme\\Bookme.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T17:34:19.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bookme\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Bookme\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwDEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T11:58:31.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240612112649_addRoles.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Migrations\\20240612112649_addRoles.cs",
+              "RelativeDocumentMoniker": "Bookme\\Migrations\\20240612112649_addRoles.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Migrations\\20240612112649_addRoles.cs",
+              "RelativeToolTip": "Bookme\\Migrations\\20240612112649_addRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:26:49.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Bookme\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Bookme\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAABAAAAAAAAAAAIBJwBgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-05T14:18:21.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Bookme\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Bookme\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T14:20:02.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Bookme\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Bookme\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T14:19:41.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Bookme\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Project\\Bookme\\Bookme\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Bookme\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T14:19:37.956Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
