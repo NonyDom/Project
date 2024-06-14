@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<style>
+    .bookme-image
+    {
+      background: url(Images/hhh2.jpg) no-repeat center;
+      background-size:cover;
+      height: 700px;
+      position: relative;
+    }
+
+    .bookme-logo
+    {
+        
+    }
+
+    .bookme-text
+    {
+     text-align: center;
+     position:absolute;
+     top: 40%;
+     left: 25%;
+     right: 25%
+     color: white;
+    }
+
+    .bookme-text h1{
+        font-weight:700;
+        color: white;
+    }
+</style>
+
+<div class="container-fluid bookme-image">
+<div class="">
+    <div class="bookme-text">
+      <h1 class="display-3" style="font-family: 'Sitka Display'">WELLCOME TO BOOK ME</h1>
+      <p class="text-white lead"><b>We are the music makers and we are the dreamers of dreams.<br />
+         @*  A creative artist works on his next composition because he was not satisfied with his previous one *@</b></p>
+      <a asp-controller="" asp-action="" class="btn btn-light mt-3 p-4"><b>Get Started</b></a>
+    </div>
+</div>
+</div>
+
+
+@* <div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div> *@
